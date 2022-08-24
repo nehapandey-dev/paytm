@@ -16,4 +16,4 @@ Since in this project I had to built Paytm website by using tailwind CSS.So ther
 
 It took me 10 hours to complete this project.
 
-![myproject link](./Paytm%20screen.png)
+![myproject link](./pagescreen.png)
